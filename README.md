@@ -118,5 +118,5 @@ Detailed interpretations are available in `ds_report.pdf`.
 ---
 
 ## Author
-**Roshan Laharwani**
+- **Roshan Laharwani**
 Data Science Assignment – Web3 Trading Team
