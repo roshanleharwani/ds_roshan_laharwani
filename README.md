@@ -93,12 +93,15 @@ Since leverage data was not available, alternative **risk and behavior proxies**
 
 ## Key Insights (Summary)
 
-- Trading volume and exposure increase significantly during **Greed** and **Extreme Greed** phases.
-- Profitability does not scale proportionally with increased risk-taking.
-- Losses tend to be amplified during **Extreme Fear** regimes.
-- Win rates remain relatively stable, suggesting increased risk rather than improved strategy during optimistic market conditions.
+- Traders achieve the **highest average profits and win rates during Extreme Greed**, primarily due to **increased risk exposure rather than improved trading accuracy**.
+- **Risk exposure peaks during Greed**, indicating that traders commit the most capital when market confidence is high, which increases vulnerability to sudden market reversals.
+- **Fear regimes do not reduce trading activity**; instead, traders often increase participation, reflecting panic-driven trades and aggressive attempts to recover losses.
+- **Losses are most pronounced during Extreme Fear**, highlighting emotionally driven exits and unfavorable risk–reward conditions.
+- **Market sentiment shows little direct correlation with profitability**, reinforcing that sentiment mainly influences **risk-taking behavior**, not **trading skill**.
+- Traders display a **mild contrarian bias during emotionally extreme periods**, frequently attempting to anticipate market tops and bottoms rather than following prevailing trends.
 
-Detailed interpretations are available in `ds_report.pdf`.
+Detailed explanations and supporting visual evidence are provided in `ds_report.pdf`.
+
 
 ---
 
