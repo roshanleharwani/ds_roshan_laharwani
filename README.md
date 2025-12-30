@@ -78,7 +78,7 @@ Since leverage data was not available, alternative **risk and behavior proxies**
 - **Position Exposure**  
   Proxy for capital at risk using starting position and trade size.
 - **Directional Bias**  
-  Encoded long (+1) and short (-1) trades.
+  Encoded Buy (+1) and Sell (-1) trades.
 
 ---
 
@@ -87,7 +87,7 @@ Since leverage data was not available, alternative **risk and behavior proxies**
 - Win Rate across Sentiment Regimes
 - Trading Volume as a Measure of Risk Appetite
 - Position Exposure as a Proxy for Risk
-- Long vs Short Bias under Different Market Conditions
+- Buy vs Sell Bias under Different Market Conditions
 
 ---
 
@@ -118,5 +118,5 @@ Detailed interpretations are available in `ds_report.pdf`.
 ---
 
 ## Author
-<Roshan Laharwani>
+**Roshan Laharwani**
 Data Science Assignment – Web3 Trading Team
